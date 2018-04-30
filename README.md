@@ -1,2 +1,2 @@
-# retromagazine_01
-First sample code for "RetroMagazine"
+# retromagazine_02
+Second sample code for "RetroMagazine"
